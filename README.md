@@ -1,2 +1,2 @@
-# PlanR
- Familienplaner sqlite-editable
+# planR
+ sqlite-editable
