@@ -1,0 +1,2 @@
+# PlanR
+ Familienplaner sqlite-editable
